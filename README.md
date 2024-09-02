@@ -2,7 +2,7 @@
 Overview
 This project involves the analysis of the Titanic dataset, exploring factors influencing survival, and building a machine learning model for prediction. The repository includes data cleaning, visualization, feature engineering, and model deployment.
 
-Top 5 Challenges and Solutions
+# Top 5 Challenges and Solutions
 1. Dealing with Missing Data
 Challenge: The dataset contained missing values, especially in the 'Age' and 'Cabin' columns, impacting the analysis and model training.
 
@@ -28,7 +28,7 @@ Challenge: Deploying the model and creating a user-friendly interface for predic
 
 Solution: I created a deployment script that takes user input for features ('Pclass', 'Sex', 'Age', 'Fare') and outputs a prediction for survival. This script enables users to interact with the model and obtain predictions for individual passengers.
 
-Project Structure
+# Project Structure
 data: Contains the dataset used for analysis.
 notebooks: Jupyter notebooks detailing the analysis process.
 scripts: Python scripts, including the deployment script.
